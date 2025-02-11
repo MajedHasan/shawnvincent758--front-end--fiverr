@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import HeroSlider from "./HeroSlider";
+import HeroSlider from "./heroSlider";
 import { Truck, RotateCcw, Gift, Flame } from "lucide-react";
 
 const HeroSection = () => {
